@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/spotlight_video_events/__init__.py
+src/spotlight_video_events/detector.py
+src/spotlight_video_events.egg-info/PKG-INFO
+src/spotlight_video_events.egg-info/SOURCES.txt
+src/spotlight_video_events.egg-info/dependency_links.txt
+src/spotlight_video_events.egg-info/requires.txt
+src/spotlight_video_events.egg-info/top_level.txt
+tests/test_events.py
